@@ -3,6 +3,14 @@
 	text-align: left;
 	font-size: 1.3rem;
 }
+.icons i{
+	font-size: 2rem;
+	color: white;
+	padding: 5%;
+}
+.icons{
+	text-align: center;
+}
 .full p{
 	text-align: center;
 	font-size: 1.3rem;
@@ -31,7 +39,7 @@
 	 background: white;
 	 border-radius: 0 0.5rem 0.5rem 0.5rem;
 	 counter-increment: gradient-counter;
-	 margin-top: 1rem;
+	 margin-top: 2rem;
 	 min-height: 3rem;
 	 padding: 1rem 1rem 1rem 3rem;
 	 position: relative;
@@ -44,7 +52,7 @@
 	 left: -1rem;
 	 overflow: hidden;
 	 position: absolute;
-	 top: -1rem;
+	 top: 1.25rem;
 	 width: 3rem;
 }
  ol.gradient-list > li::before {
